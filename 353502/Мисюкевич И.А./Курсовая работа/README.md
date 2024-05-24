@@ -1,24 +1,36 @@
-Анализ квантовых алгоритмов
+РђРЅР°Р»РёР· РєРІР°РЅС‚РѕРІС‹С… Р°Р»РіРѕСЂРёС‚РјРѕРІ
 
-Алгоритм Шора
+РђР»РіРѕСЂРёС‚Рј РЁРѕСЂР°
 
-Применяется в: shor.cpp
+РџСЂРёРјРµРЅСЏРµС‚СЃСЏ РІ: shor.cpp
 
-
-Алгоритм Евклида
-
-Применяется в shor.cpp. GCD(n, x). Результат в 107 строке.
+![1](https://github.com/angryarabianman/Fundamentals-of-algorithmization-and-programming/assets/141720683/49111cc0-31f6-4742-8959-01783d5e3a40)
 
 
-Алгоритм русского крестьянина
+РђР»РіРѕСЂРёС‚Рј Р•РІРєР»РёРґР°
 
-Применяется в: shor.cpp (modexp(a,b,c), 57 строка)
+РџСЂРёРјРµРЅСЏРµС‚СЃСЏ РІ shor.cpp. GCD(n, x). Р РµР·СѓР»СЊС‚Р°С‚ РІ 107 СЃС‚СЂРѕРєРµ.
 
-Алгоритм приближения дроби
+![2](https://github.com/angryarabianman/Fundamentals-of-algorithmization-and-programming/assets/141720683/7940b69e-f8c8-440e-b501-d3179cefefcf)
 
-Применяется в: shor.cpp (denominator(a,b), 94 строка)
+РђР»РіРѕСЂРёС‚Рј СЂСѓСЃСЃРєРѕРіРѕ РєСЂРµСЃС‚СЊСЏРЅРёРЅР°
 
-Алгоритм вычисления размера регистра
+РџСЂРёРјРµРЅСЏРµС‚СЃСЏ РІ: shor.cpp (modexp(a,b,c), 57 СЃС‚СЂРѕРєР°)
 
-Применяется в: shor.cpp (RegSize(q), строка 39)
+![3](https://github.com/angryarabianman/Fundamentals-of-algorithmization-and-programming/assets/141720683/c06b7f07-f206-4532-9bb6-7bb66b48659a)
+
+
+РђР»РіРѕСЂРёС‚Рј РїСЂРёР±Р»РёР¶РµРЅРёСЏ РґСЂРѕР±Рё
+
+РџСЂРёРјРµРЅСЏРµС‚СЃСЏ РІ: shor.cpp (denominator(a,b), 94 СЃС‚СЂРѕРєР°)
+
+![4](https://github.com/angryarabianman/Fundamentals-of-algorithmization-and-programming/assets/141720683/d7293fed-1628-4092-be7d-00f1f3432b99)
+
+
+РђР»РіРѕСЂРёС‚Рј РІС‹С‡РёСЃР»РµРЅРёСЏ СЂР°Р·РјРµСЂР° СЂРµРіРёСЃС‚СЂР°
+
+РџСЂРёРјРµРЅСЏРµС‚СЃСЏ РІ: shor.cpp (RegSize(q), СЃС‚СЂРѕРєР° 39)
+
+![5](https://github.com/angryarabianman/Fundamentals-of-algorithmization-and-programming/assets/141720683/42eba3d4-4708-488d-8ad7-467f5ff8653a)
+
 
